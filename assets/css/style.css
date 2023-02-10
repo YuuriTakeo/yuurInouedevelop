@@ -532,7 +532,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/Pessoal.jpg");
+  background: url("../img/Pessoal.jpeg");
   background-size: cover;
   min-height: 400px;
 }
